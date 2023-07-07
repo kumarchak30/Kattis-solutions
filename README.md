@@ -1,3 +1,3 @@
 # Kattis-solutions
-Soltuion to kattis problems, mostly in java.
+Solution to kattis problems, mostly in java and c++
 Problems can be found on open.kattis.com
