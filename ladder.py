@@ -1,0 +1,1 @@
+import math; h, v = map(int, input().split()); angle_rad = math.radians(v); ladder_length = math.ceil(h / math.sin(angle_rad)); print(ladder_length)
